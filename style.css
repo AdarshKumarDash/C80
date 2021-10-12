@@ -1,0 +1,25 @@
+#sorting {
+    display: none;
+}
+
+span {
+    margin-right: 10px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#names {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: royalblue;
+    width: 50%;
+}
+
+#names_of_students_sort {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: tomato;
+    width: 50%;
+}
